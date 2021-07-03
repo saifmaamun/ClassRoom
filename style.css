@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgba(97, 95, 95, 0.808);
+}
+.header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 0px auto 1px;
+    padding: 15px;
+    font-size: 5rem;
+    font-display: wider;
+    background-color: rgba(196, 79, 2, 0.705);
+}
+.container{
+    display: inline;
+}
+.admin{
+    display: inline-block;
+    height: fit-content;
+    width: 24.7%;
+    background-color: red;
+}
+.bam{
+    text-align: right;
+    list-style: none;
+    padding: 5px 20px 5px;
+    border: 10px double rgb(201, 55, 3);
+}
+.mang{
+    display: inline-block;
+    height: fit-content;
+    width: 24.7%;
+    background-color: red;
+}
+.teacher{
+    display: inline-block;
+    height: fit-content;
+    width: 24.7%;
+    background-color: red;
+}
+.cls{
+    display: inline-block;
+    height: fit-content;
+    width: 24.7%;
+    background-color: red;
+}
+
+
